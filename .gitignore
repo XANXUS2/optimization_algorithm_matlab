@@ -1,5 +1,6 @@
 # 运行中产生的文件
 **/*.asv
 **/*.mat
+**/*.slxc
 slprj/
 test_on_the_function.fig
