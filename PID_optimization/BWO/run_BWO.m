@@ -11,7 +11,7 @@ fobj = @PID_fitness; % 适应度函数
 UB = 300; % 最大值
 LB = 0; % 最小值
 
-loop = 10; % 循环次数
+loop = 100; % 循环次数
 
 tic;
 parfor i = 1:loop
